@@ -1,0 +1,8 @@
+num=int(input("Enter a number: "))
+num_str=str(num)
+print(num_str)
+print("num_str data type is: ",type(num_str))
+word=input("Enter a string: ")
+word_int=int(word)
+print(word_int)
+print("word_int data type is: ",type(word_int))
